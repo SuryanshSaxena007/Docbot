@@ -1,0 +1,199 @@
+Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+my name is Suryansh
+Hello! your name has been stored. What is your age?
+my age is 20
+okay. your age has been stored. Which city do you live in?
+i live in Lucknow
+okay location stored. Welcome to medical portal. Say Hi!
+Hi
+Hello. How are you feeling today?
+i feel sick
+okay. can you tell me what's wrong? what are your symptoms?
+i have a headache
+what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+cluster headache
+symptom noted. Attacks tend to occur in daily clusters that can persist for weeks or months. They typically take place at the same time of day, which can often be a couple of hours after falling asleep at night. would you like to talk to a doctor?
+yes i'd like to talk to a doctor
+you shall be called once the doctor is available. Do you want to book an appointment?
+yes book an appointment for me
+yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+Patient Name: Suryansh Date: 05.07.20 Doctor: Yogesh Hospital: Hiranandani
+appointment details saved. you shall be contacted shortly.
+thanks
+happy to help!
+Bye
+Bye. Nice talking to you
+i am good
+good to know. how may i assist you then?
+Q1.  What should I take for cold and high fever ?
+Any Paracetamol like Combiflame or Crocin Advanced should help, and take proper rest and keep yourself hydrated.
+
+Q2.  I have severe headache, what should I do for instant relief ?
+Though using balm or medicines such as Disprin or Saridon may work, if conditions don't improve then I suggest taking rest might be useful.
+
+Q3.   What should I do if I suffer with flu?
+
+Most people who come down with the flu don’t need to make a trip to their doctor. If your symptoms are mild, it’s best to simply stay home, rest, and avoid contact with other people as much as possible.
+
+Q4.  Do I need medical care?
+If you have typical flu symptoms, like a fever, cough, stuffy nose, and sore throat, but they aren’t particularly severe, you probably don’t need to see a doctor.
+
+Q5. Am I at a higher risk of developing a flu complication?
+Some groups of people are at a higher risk of experiencing complications of the flu. This includes older adults, young children, infants, pregnant women, and people with chronic illnesses. People over the age of 65 are at the greatest riskTrusted Source of complications and death from the flu.
+
+Q6. Do I need a flu diagnostic test?
+In some cases, testing is considered unnecessary. But there are a few different types of flu tests available to detect the influenza viruses. The most common tests are called rapid influenza diagnostic tests
+
+Q7.  Should I take an antiviral?
+If you’re at a higher risk of developing flu complications, your doctor can prescribe an antiviral medication to lower your risk. These drugs work by preventing the virus from growing and replicating.
+
+Q8. Which over-the-counter medications should I take?
+The best treatment for the flu is lots of rest and plenty of fluids. Over-the-counter medications can help make your symptoms more tolerable.
+
+Q9. What symptoms are considered an emergency?
+For some people, the flu can cause more serious symptoms. Ask your doctor which symptoms could indicate that you’ve come down with a secondary infection or complication like pneumonia.
+
+Q10. What should I do if I have a young child at home?
+If you’re sick and have children at home, you should avoid spreading your infection to your family. The flu is highly contagious even before you started having symptoms, so it’s not always possible to contain it.
+
+Q11. Are there any vitamins or herbal remedies you recommend?
+Most herbal remedies and vitamin supplements haven’t been thoroughly tested for safety and efficacy as flu treatments, but some people swear by them.
+
+Q12.   When will I completely recover?
+Recovery from the flu varies from person to person, but most people start feeling better within a week. You might have a lingering cough and fatigue for another week or two after that. 
+
+Q13.  When can I get back to the gym?
+The flu can really take a toll on your energy and strength. You should wait until your fever is gone and your energy, immune system, and muscle strength return before you resume your workouts. Realistically, this could mean waiting a couple weeks.
+
+Q14. When can I go back to school or work?
+The Centers for Disease Control and Prevention (CDC) recommends that you stay home from work, school, and social gatherings for at least 24 hoursTrusted Source after your fever is gone.
+
+Q15.  Why is the surgery needed?
+As basic as this question may seem, it’s a good starting point for launching a conversation about your surgery.
+
+Q16. Are there any alternatives?
+Are there any medications or even alternative treatments that could be used to improve your condition?
+
+Q16. What will happen if I don’t get the surgery?
+Do you have to have the surgery immediately—or can you wait? What is the likely outcome if you decide not to have the surgery?
+
+Q17. What will my recovery be like?
+How long until you’ll be able to return to work or drive a car? How limited will your mobility be? How should you expect to feel?
+
+Q18. Should I get a second opinion?
+Getting a second opinion can help put you at ease that you’re making the right decision—or it might bring up concerns not previously addressed.
+
+Q19. How long will I be in the hospital?
+What is the shortest possible stay—and what does your doctor see as the longest stay you might face?
+
+Q20.  When, and for how long, will visitors be allowed?
+Knowing this information will also help your friends and family members plan their visits.
+
+Q21. What are the benefits of my surgery and how long will they last?
+What exactly are the possible benefits of the surgery you’ll be having—and how likely is it that you will experience those benefits?
+
+Q22. What are the risks of my surgery?
+All surgeries have risks. Ask what they are for your specific procedure.
+
+Q23.  What is your surgeon’s experience in this type of surgery?
+Knowing your surgeon’s level of expertise is one factor that may reduce your anxiety leading up to the date of your surgery.
+
+Q24. What type of anesthesia will I receive?
+
+Can the procedure be performed under local or regional anesthesia?
+
+Q25.  What are the costs of this procedure and is it covered by insurance?
+This is likely a question for the staff at your doctor’s office. In some cases, you may also need to call your insurance company. Ask about physician's fees, associated costs, hospital services, rehabilitation programs and pain medications.
+
+Q26. How is pain treated after the operation?
+Will you need pain medication? If so, for how long—and what kind does your doctor suggest? Any issues with addiction should also be discussed at this time.
+
+Q27.  How do I prepare for the surgery, both physically and mentally?
+What should you be eating and drinking in the days leading up to surgery? Will you still be able to have the surgery if you develop a cold or catch a virus? Are there any medications you should avoid?
+
+Surgery is not high on anyone’s list of fun things to do, but properly preparing for your procedure is likely to reduce your anxiety and make you feel more at ease. Contact us today if there’s a medical concern you’ve been putting off.
+
+Q28. When should I call a doctor about a fever?
+If your temperature is 103°F or higher or if you’ve had a fever for more than 3 days, call your doctor. You should also call if you have a fever with symptoms like severe throat swelling, vomiting, headache, chest pain, stiff neck or rash.
+
+Q29. How high of a fever is dangerous?
+Fevers above 104° F (40° C) are dangerous. They can cause brain damage.
+
+Q30.How long is too long for a fever?
+A high grade fever happens when your body temperature is 103°F (39.4°C) or above. Most fevers usually go away by themselves after 1 to 3 days. A persistent or recurrent fever may last or keep coming back for up to 14 days. A fever that lasts longer than normal may be serious even if it is only a slight fever.
+
+Q31. Why do fevers spike at night?
+fever seems worse at night is because it actually is worse. The inflammatory response mechanism of the immune system is amplified. Your immune system deliberately raises your body temperature as part of its strategy to kill the virus attacking you.
+
+Q32.Is it better to sleep in a cold or warm room when sick?
+Many people like sleeping in a cool room, but don't make it so cold that you wake up shivering in the middle of the night. When you're feeling sick, you might want to consider raising the temperature a little, rather than letting the thermostat drop. Just don't forget to change it back when you're feeling better
+
+Q33.Do Blankets Increase fever?
+Do not put extra blankets or clothes on. This may cause your fever to rise even higher. ... Change your clothes, blanket, or sheets if they get wet. Cool yourself safely
+
+Q34.Is 99.7 a fever?
+Fever. In most adults, an oral or axillary temperature above 37.6°C (99.7°F) or a rectal or ear temperature above 38.1°C (100.6°F) is considered a fever. A child has a fever when his or her rectal temperature is 38°C (100.4°F) or higher or armpit (axillary) temperature is 37.6°C (99.7°F) or higher.
+
+Q35.How do you break a fever naturally?
+Stay cool
+Sit in a bath of lukewarm water, which will feel cool when you have a fever. ..
+Give yourself a sponge bath with lukewarm water.
+Wear light pajamas or clothing.
+Try to avoid using too many extra blankets when you have chills.
+Drink plenty of cool or room-temperature water.
+Eat popsicles.
+
+Q36.How can you tell when a fever breaks?
+And then you feel cold. And you shiver and raise your body temperature to that elevated level. When the fever breaks, the thermostat gets set back to 98.6.
+
+Q37.Can you sweat out a fever?
+Sweat is part of the body's cooling system, so it's not unusual to think that sweating out a fever can help. ... But there's no evidence that sweating it out will help you feel better faster. Keep in mind that a fever doesn't necessarily require any treatment.
+
+Q38.Is sweating a good sign when sick?
+It's your body's way of cooling down. When your body temperature rises, your nervous system sends a message to your sweat glands to secrete water onto your skin. .
+
+Q39.Why do I feel cold but my body is hot?
+Your brain thinks your body is too cold, so you shiver to warm up. This is how you can have a fever and feel warm on the outside but get the chills and feel cold inside. .
+
+Q40.Why am I still cold under blankets?
+Chills with a normal or elevated temperature should not be treated with warm clothing or blankets, as this can raise the body temperature to a dangerous level.
+
+Q41.Can you feel achy with a cold?
+A fever, headache, and other aches and pains are common with the flu but less so with colds. People who have colds usually have a stuffy nose and sore throat. 
+
+Q42. What are the symptoms of severe cold?
+Runny or stuffy nose.
+Sore throat.
+Cough.
+Congestion.
+Slight body aches or a mild headache.
+Sneezing.
+
+Q43. What can I take for body aches and sore throat?
+Take an over-the-counter pain reliever.
+
+Q44. Is headache and sore throat sign of flu?
+Flu: Comes on Fast and Furious.Colds are usually less intense and include a runny or stuffy nose.
+
+Q45.How do you get rid of body aches and chills?
+Wrapping yourself in a warm blanket can increase your body temperature and possibly reduce chills.
+
+Q46.Why is my whole body aching?
+The flu, the common cold, and other viral or bacterial infections can cause body aches.
+
+Q47.How do ear infections start?
+An ear infection is caused by a bacterium or virus in the middle ear. This infection often results from another illness — cold, flu or allergy — that causes congestion and swelling of the nasal passages, throat and eustachian tubes
+
+Q48.When should I go to the doctor for an ear infection?
+Ear infections can go away on their own in many cases, so a minor earache may not be a worry. A doctor should typically be seen if symptoms have not improved within 3 days.
+
+Q49.How do I know if I have pneumonia at home?
+They can include:
+High fever, up to 105 F.
+Coughing up greenish, yellow, or bloody mucus.
+Chills that make you shake.
+Feeling like you can't catch your breath, especially when you move around a lot.
+Feeling very tired.
+
+Q50.What Antibiotics treat pneumonia?
+First-line antibiotics that might be selected include the macrolide antibiotics azithromycin (Zithromax) or clarithromycin (Biaxin XL); or the tetracycline known as doxycycline.
